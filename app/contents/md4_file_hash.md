@@ -1,7 +1,7 @@
 ---
 title: MD4 File Hash
 template: page.jade
-js: https://rawgit.com/emn178/js-md4/master/build/md4.min.js
+js: ./libs/md4.min.js
 method: md4
 action: Hash
 auto_update: true

@@ -1,7 +1,7 @@
 ---
 title: SHA512/224 File Hash
 template: page.jade
-js: https://rawgit.com/emn178/js-sha512/master/build/sha512.min.js
+js: ./libs/sha512.min.js
 method: sha512_224
 action: Hash
 auto_update: true
